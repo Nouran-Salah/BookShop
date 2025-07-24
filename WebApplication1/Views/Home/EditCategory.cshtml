@@ -1,0 +1,21 @@
+﻿@using Web.Models.Models
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model Category
+@{
+	ViewData["Title"] = "Category";
+}
+<div>
+	<h1>Edit Category</h1>
+	<form asp-action="EditCategory" method="post">
+
+		<label asp-for="catName">Category Name:</label>
+		<input asp-for="catName" class="form-control border-2" placeholder="Enter category name" />
+		<label asp-for="catOrder">Category Order:</label>
+		<input asp-for="catOrder" class="form-control border-2" placeholder="Enter Category Order" />
+		<br />
+		<button class="btn btn-primary border-0 px-4 py-2" type="submit">Edit</button>
+	</form>
+
+</div>
