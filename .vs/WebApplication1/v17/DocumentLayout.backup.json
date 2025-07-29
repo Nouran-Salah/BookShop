@@ -3,72 +3,120 @@
   "WorkspaceRootPath": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\home\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\product\\getallproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\product\\getallproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\home\\categorydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\categorydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\viewmodels\\getproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\viewmodels\\getproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\home\\getallcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\getallcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\viewmodels\\editproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\viewmodels\\editproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\category\\getallcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\category\\getallcategories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\category\\categorydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\category\\categorydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\product\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\product\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\product\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\product\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\home\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\category\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\category\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\viewmodels\\createproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\viewmodels\\createproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\viewmodels\\categorydetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\viewmodels\\categorydetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F501D629-7060-4552-9C2B-CF5A41393F63}|Web.Models\\Web.Models.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\web.models\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F501D629-7060-4552-9C2B-CF5A41393F63}|Web.Models\\Web.Models.csproj|solutionrelative:web.models\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\category\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\category\\createcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F501D629-7060-4552-9C2B-CF5A41393F63}|Web.Models\\Web.Models.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\web.models\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F501D629-7060-4552-9C2B-CF5A41393F63}|Web.Models\\Web.Models.csproj|solutionrelative:web.models\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49726DBD-84BA-4B53-A1C2-520F08B4C1D4}|Web.DataAccess\\Web.DataAccess.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\web.dataaccess\\categorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49726DBD-84BA-4B53-A1C2-520F08B4C1D4}|Web.DataAccess\\Web.DataAccess.csproj|solutionrelative:web.dataaccess\\categorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F501D629-7060-4552-9C2B-CF5A41393F63}|Web.Models\\Web.Models.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\web.models\\web.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F501D629-7060-4552-9C2B-CF5A41393F63}|Web.Models\\Web.Models.csproj|solutionrelative:web.models\\web.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\viewmodels\\categorydetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\viewmodels\\categorydetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F501D629-7060-4552-9C2B-CF5A41393F63}|Web.Models\\Web.Models.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\web.models\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F501D629-7060-4552-9C2B-CF5A41393F63}|Web.Models\\Web.Models.csproj|solutionrelative:web.models\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49726DBD-84BA-4B53-A1C2-520F08B4C1D4}|Web.DataAccess\\Web.DataAccess.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\web.dataaccess\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49726DBD-84BA-4B53-A1C2-520F08B4C1D4}|Web.DataAccess\\Web.DataAccess.csproj|solutionrelative:web.dataaccess\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F501D629-7060-4552-9C2B-CF5A41393F63}|Web.Models\\Web.Models.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\web.models\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F501D629-7060-4552-9C2B-CF5A41393F63}|Web.Models\\Web.Models.csproj|solutionrelative:web.models\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F501D629-7060-4552-9C2B-CF5A41393F63}|Web.Models\\Web.Models.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\web.models\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F501D629-7060-4552-9C2B-CF5A41393F63}|Web.Models\\Web.Models.csproj|solutionrelative:web.models\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F501D629-7060-4552-9C2B-CF5A41393F63}|Web.Models\\Web.Models.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\web.models\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F501D629-7060-4552-9C2B-CF5A41393F63}|Web.Models\\Web.Models.csproj|solutionrelative:web.models\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49726DBD-84BA-4B53-A1C2-520F08B4C1D4}|Web.DataAccess\\Web.DataAccess.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\web.dataaccess\\categorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49726DBD-84BA-4B53-A1C2-520F08B4C1D4}|Web.DataAccess\\Web.DataAccess.csproj|solutionrelative:web.dataaccess\\categorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49726DBD-84BA-4B53-A1C2-520F08B4C1D4}|Web.DataAccess\\Web.DataAccess.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\web.dataaccess\\web.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{49726DBD-84BA-4B53-A1C2-520F08B4C1D4}|Web.DataAccess\\Web.DataAccess.csproj|solutionrelative:web.dataaccess\\web.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F501D629-7060-4552-9C2B-CF5A41393F63}|Web.Models\\Web.Models.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\web.models\\web.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F501D629-7060-4552-9C2B-CF5A41393F63}|Web.Models\\Web.Models.csproj|solutionrelative:web.models\\web.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -79,8 +127,16 @@
       "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{49726DBD-84BA-4B53-A1C2-520F08B4C1D4}|Web.DataAccess\\Web.DataAccess.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\web.dataaccess\\migrations\\20250724123507_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49726DBD-84BA-4B53-A1C2-520F08B4C1D4}|Web.DataAccess\\Web.DataAccess.csproj|solutionrelative:web.dataaccess\\migrations\\20250724123507_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49726DBD-84BA-4B53-A1C2-520F08B4C1D4}|Web.DataAccess\\Web.DataAccess.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\web.dataaccess\\migrations\\categorycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49726DBD-84BA-4B53-A1C2-520F08B4C1D4}|Web.DataAccess\\Web.DataAccess.csproj|solutionrelative:web.dataaccess\\migrations\\categorycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -91,8 +147,8 @@
       "RelativeMoniker": "D:0:0:{E541EC27-8972-4394-A371-90D02FCBBC17}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49726DBD-84BA-4B53-A1C2-520F08B4C1D4}|Web.DataAccess\\Web.DataAccess.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\web.dataaccess\\migrations\\20250724123507_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49726DBD-84BA-4B53-A1C2-520F08B4C1D4}|Web.DataAccess\\Web.DataAccess.csproj|solutionrelative:web.dataaccess\\migrations\\20250724123507_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{49726DBD-84BA-4B53-A1C2-520F08B4C1D4}|Web.DataAccess\\Web.DataAccess.csproj|c:\\users\\huawei\\source\\repos\\webapplication1\\web.dataaccess\\migrations\\20250728012828_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49726DBD-84BA-4B53-A1C2-520F08B4C1D4}|Web.DataAccess\\Web.DataAccess.csproj|solutionrelative:web.dataaccess\\migrations\\20250728012828_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -105,153 +161,186 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T14:05:58.618Z"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T14:06:00.386Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoryDetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\CategoryDetails.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\CategoryDetails.cshtml",
-              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\CategoryDetails.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Home\\CategoryDetails.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-24T17:25:12.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EditCategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\EditCategory.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\EditCategory.cshtml",
-              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\EditCategory.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Home\\EditCategory.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-24T16:00:22.264Z",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA9wEUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T02:06:30.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "createCategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\createCategory.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\createCategory.cshtml",
-              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\createCategory.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Home\\createCategory.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Title": "CategoryDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Category\\CategoryDetails.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Category\\CategoryDetails.cshtml",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Category\\CategoryDetails.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Category\\CategoryDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-24T04:27:34.723Z"
+              "WhenOpened": "2025-07-28T02:03:40.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetAllCategories.cshtml",
-              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\GetAllCategories.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\GetAllCategories.cshtml",
-              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\GetAllCategories.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Home\\GetAllCategories.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "GetProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\ViewModels\\GetProductModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\ViewModels\\GetProductModel.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\ViewModels\\GetProductModel.cs",
+              "RelativeToolTip": "WebApplication1\\Views\\ViewModels\\GetProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T01:33:20.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Product\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Product\\EditProduct.cshtml",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Product\\EditProduct.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Product\\EditProduct.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-24T13:09:46.062Z"
+              "WhenOpened": "2025-07-29T02:48:09.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Product\\GetAllProducts.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Product\\GetAllProducts.cshtml",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Product\\GetAllProducts.cshtml*",
+              "RelativeToolTip": "WebApplication1\\Views\\Product\\GetAllProducts.cshtml*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T02:42:50.078Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "GetAllCategories.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Category\\GetAllCategories.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Category\\GetAllCategories.cshtml",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Category\\GetAllCategories.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Category\\GetAllCategories.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T02:04:15.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\ViewModels\\EditProductModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\ViewModels\\EditProductModel.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\ViewModels\\EditProductModel.cs",
+              "RelativeToolTip": "WebApplication1\\Views\\ViewModels\\EditProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T02:57:21.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "createCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Category\\createCategory.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Category\\createCategory.cshtml",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Category\\createCategory.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Category\\createCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T02:02:14.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Product\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Product\\ProductDetails.cshtml",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Product\\ProductDetails.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Product\\ProductDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T03:06:00.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Category\\EditCategory.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Category\\EditCategory.cshtml",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Category\\EditCategory.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Category\\EditCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T02:02:57.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Product\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Product\\CreateProduct.cshtml",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Product\\CreateProduct.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Product\\CreateProduct.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T02:44:07.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAcwEcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T01:22:00.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CategoryDetailsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\ViewModels\\CategoryDetailsViewModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\ViewModels\\CategoryDetailsViewModel.cs",
-              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\ViewModels\\CategoryDetailsViewModel.cs",
-              "RelativeToolTip": "WebApplication1\\Views\\ViewModels\\CategoryDetailsViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T17:38:50.301Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WebApplication1.csproj",
-              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
-              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-24T12:39:27.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.Models\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Web.Models\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.Models\\Models\\Category.cs",
-              "RelativeToolTip": "Web.Models\\Models\\Category.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T03:08:39.244Z"
+              "WhenOpened": "2025-07-24T01:22:00.43Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.Models\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Web.Models\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.Models\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Web.Models\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Title": "CreateProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\ViewModels\\CreateProductModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\ViewModels\\CreateProductModel.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\ViewModels\\CreateProductModel.cs",
+              "RelativeToolTip": "WebApplication1\\Views\\ViewModels\\CreateProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T01:38:21.226Z"
+              "WhenOpened": "2025-07-29T01:12:53.154Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAuwCQAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAuwE8AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T14:04:07.713Z"
+              "WhenOpened": "2025-07-28T01:44:59.022Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -261,13 +350,40 @@
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBwAAABpAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwB8AAAB/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T14:06:05.169Z"
+              "WhenOpened": "2025-07-23T14:06:05.169Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
+              "Title": "CategoryDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\ViewModels\\CategoryDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\ViewModels\\CategoryDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\ViewModels\\CategoryDetailsViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Views\\ViewModels\\CategoryDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T17:38:50.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T14:05:58.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
@@ -275,47 +391,129 @@
               "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-24T03:08:05.21Z"
+              "WhenOpened": "2025-07-24T03:08:05.21Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-24T03:08:07.437Z"
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.Models\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Web.Models\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.Models\\Models\\Product.cs",
+              "RelativeToolTip": "Web.Models\\Models\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T00:30:27.774Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.DataAccess\\Repository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Web.DataAccess\\Repository\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.DataAccess\\Repository\\BaseRepository.cs",
+              "RelativeToolTip": "Web.DataAccess\\Repository\\BaseRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA+wB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T23:29:03.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.Models\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Web.Models\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.Models\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Web.Models\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T01:38:21.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.Models\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Web.Models\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.Models\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "Web.Models\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T23:10:15.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.Models\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Web.Models\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.Models\\Models\\Category.cs",
+              "RelativeToolTip": "Web.Models\\Models\\Category.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T03:08:39.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "CategoryContext.cs",
               "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.DataAccess\\CategoryContext.cs",
               "RelativeDocumentMoniker": "Web.DataAccess\\CategoryContext.cs",
               "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.DataAccess\\CategoryContext.cs",
               "RelativeToolTip": "Web.DataAccess\\CategoryContext.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T03:27:15.501Z"
+              "WhenOpened": "2025-07-24T03:27:15.501Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T14:04:07.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "Web.DataAccess.csproj",
               "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.DataAccess\\Web.DataAccess.csproj",
               "RelativeDocumentMoniker": "Web.DataAccess\\Web.DataAccess.csproj",
               "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.DataAccess\\Web.DataAccess.csproj",
               "RelativeToolTip": "Web.DataAccess\\Web.DataAccess.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-24T01:26:35.548Z"
+              "WhenOpened": "2025-07-24T01:26:35.548Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-24T12:39:27.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "Web.Models.csproj",
               "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.Models\\Web.Models.csproj",
               "RelativeDocumentMoniker": "Web.Models\\Web.Models.csproj",
@@ -323,23 +521,12 @@
               "RelativeToolTip": "Web.Models\\Web.Models.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-24T03:35:25.569Z"
+              "WhenOpened": "2025-07-24T03:35:25.569Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
-              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
-              "RelativeToolTip": "WebApplication1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-24T04:42:57.784Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\Error.cshtml",
@@ -351,19 +538,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentIndex": 29,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T14:06:03.913Z"
+              "WhenOpened": "2025-07-24T03:08:07.437Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-24T04:42:57.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "20250724123507_initial.cs",
               "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.DataAccess\\Migrations\\20250724123507_initial.cs",
               "RelativeDocumentMoniker": "Web.DataAccess\\Migrations\\20250724123507_initial.cs",
@@ -375,7 +574,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 32,
+              "Title": "CategoryContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.DataAccess\\Migrations\\CategoryContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Web.DataAccess\\Migrations\\CategoryContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.DataAccess\\Migrations\\CategoryContextModelSnapshot.cs",
+              "RelativeToolTip": "Web.DataAccess\\Migrations\\CategoryContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T00:25:13.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250728012828_Product.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.DataAccess\\Migrations\\20250728012828_Product.cs",
+              "RelativeDocumentMoniker": "Web.DataAccess\\Migrations\\20250728012828_Product.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\Web.DataAccess\\Migrations\\20250728012828_Product.cs",
+              "RelativeToolTip": "Web.DataAccess\\Migrations\\20250728012828_Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T01:28:28.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T14:06:00.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T14:06:03.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\HUAWEI\\source\\repos\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",

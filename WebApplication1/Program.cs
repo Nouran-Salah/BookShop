@@ -1,6 +1,8 @@
 namespace WebApplication1;
 using Microsoft.EntityFrameworkCore;
 using Web.DataAccess;
+using Web.DataAccess.Repository;
+using Web.Models.Interfaces;
 
 public class Program
     {
@@ -13,7 +15,8 @@ public class Program
 
             builder.Services.AddDbContext<CategoryContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-            var app = builder.Build();
+        builder.Services.AddScoped(typeof(IBaseRepository<>), typeof(BaseRepository<>));
+        var app = builder.Build();
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())

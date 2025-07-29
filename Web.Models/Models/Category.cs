@@ -27,5 +27,7 @@ namespace Web.Models.Models
 
         //[Column("is deleted")]
         public bool markedAsDeleted { get; set; }
+
+        public ICollection<Product> products { get; set; }
     }
 }

@@ -47,6 +47,58 @@ namespace Web.DataAccess.Migrations
 
                     b.ToTable("Categories", "MasterSchema");
                 });
+
+            modelBuilder.Entity("Web.Models.Models.Product", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Author")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.Property<int>("CategoryId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Description")
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.Property<decimal>("price")
+                        .HasColumnType("decimal(18,2)")
+                        .HasColumnName("ProductPrice");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CategoryId");
+
+                    b.ToTable("Product", "MasterSchema");
+                });
+
+            modelBuilder.Entity("Web.Models.Models.Product", b =>
+                {
+                    b.HasOne("Web.Models.Models.Category", "Category")
+                        .WithMany("products")
+                        .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Category");
+                });
+
+            modelBuilder.Entity("Web.Models.Models.Category", b =>
+                {
+                    b.Navigation("products");
+                });
 #pragma warning restore 612, 618
         }
     }

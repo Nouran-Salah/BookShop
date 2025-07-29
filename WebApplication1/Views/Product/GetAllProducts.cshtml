@@ -1,0 +1,47 @@
+﻿@using WebApplication1.Views.ViewModels
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<GetProductModel>
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<h1>Products</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Author</th>
+            <th>Category</th>
+            <th>Edit</th>
+            <th>Details</th>
+            <th>Delete</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            foreach (var pro in Model)
+            {
+                <tr>
+                    <td> @pro.Title</td>
+                    <td>
+                        @if (pro.Description.Length > 50){
+                            @pro.Description.Substring(0, 50)
+                            <a asp-action="ProductDetails" asp-route-id="@pro.Id">...Read more</a>
+                        }else @pro.Description
+                    </td>
+					<td> @pro.price</td>
+					<td> @pro.Author</td>
+					<td> @pro.CategoryName</td>
+                    <td><a class="btn btn-primary" asp-action="EditProduct" asp-route-id="@pro.Id">Edit</a></td>
+                    <td><a class="btn btn-secondary" asp-action="ProductDetails" asp-route-id="@pro.Id">Details</a></td>
+                    <td><a class="btn btn-danger" asp-action="DeleteProduct" asp-route-id="@pro.Id">Delete</a></td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

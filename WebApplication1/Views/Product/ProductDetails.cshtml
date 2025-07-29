@@ -1,0 +1,25 @@
+﻿@using WebApplication1.Views.ViewModels
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model GetProductModel
+
+@{
+	ViewData["Title"] = "Product Details";
+}
+
+<div>
+	<h1 class="text-center">Product Details</h1>
+	<h2 class="my-4">@Model.Title</h2>
+	<div class="fs-4 text-dark">
+		<p>Description: @Model.Description</p>
+		<p>Author: @Model.Author</p>
+		<p>Price: @Model.price</p>
+		<p>Category: @Model.CategoryName</p>
+	
+	</div>
+	<br />
+	<a class="btn btn-primary py-3 px-2" asp-action="GetAllProducts">Back To Products</a>
+
+
+</div>

@@ -17,6 +17,7 @@ namespace Web.DataAccess
         }
 
         public DbSet<Category> Categories { get; set; }
+        public DbSet<Product> Products { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {   modelBuilder.Entity<Category>()
                 .ToTable("Categories", "MasterSchema");
@@ -36,6 +37,20 @@ namespace Web.DataAccess
             modelBuilder.Entity<Category>()
                 .Ignore(c => c.createdDate);
 
+
+            modelBuilder.Entity<Product>()
+               .ToTable("Product", "MasterSchema");
+
+            modelBuilder.Entity<Product>()
+                .HasKey(p=>p.Id);
+            modelBuilder.Entity<Product>()
+                .Property(p => p.Title).HasMaxLength(50).IsRequired();
+            modelBuilder.Entity<Product>()
+                .Property(p=>p.Description).HasMaxLength(250);
+            modelBuilder.Entity<Product>()
+                .Property(p=>p.Author).HasMaxLength(50).IsRequired();
+            modelBuilder.Entity<Product>()
+                .Property(p => p.price).IsRequired().HasColumnName("ProductPrice");
         }
     }
 }
